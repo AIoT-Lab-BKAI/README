@@ -6,6 +6,8 @@
 - Chỉ thành viên trong Team mới có các quyền xem / sửa / xóa các Project trong Team đó.
 
 ## 2. Tạo và quản lý Repo mới
+- **Lưu ý:** tạo Repo và phân quyền hợp lý.
+
 ---
 ### 2.1. Quy định đặt tên Repo
 * Đối với Project cá nhân:
