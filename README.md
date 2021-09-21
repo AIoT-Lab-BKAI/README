@@ -27,11 +27,8 @@ Ví dụ: `MEC-Fuzzy-Q-learning-based-for-OCMA`
 ---
 ### 2.2. Tạo Repo 
 
-- Tại phần trang chủ của `AIoT Lab` chọn `New`
-
-![](images/add-new-repo.png)
-
-- Tạo Repo:
+- Bước 1. Tại phần trang chủ của `AIoT Lab` chọn `New`
+- Bước 2. Tạo Repo:
 	- Nếu đã có từ Github cá nhân chọn `Import a repository`.
 	- Nếu tạo Repo mới thì chỉ cần điền thông tin bên dưới (theo các quy định đặt tên như hướng dẫn trên)
 
