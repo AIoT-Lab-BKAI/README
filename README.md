@@ -6,7 +6,8 @@
 - Chỉ thành viên trong Team mới có các quyền xem / sửa / xóa các Project trong Team đó.
 
 ## 2. Tạo và quản lý Repo mới
-### Quy định đặt tên Repo
+---
+### 2.1. Quy định đặt tên Repo
 * Đối với Project cá nhân:
 
 ```
@@ -21,7 +22,8 @@ Ví dụ: `ThanhNT-MEC-Fuzzy-Q-learning-based-for-OCMA`
 ```
 Ví dụ: `MEC-Fuzzy-Q-learning-based-for-OCMA`
 
-### Tạo Repo 
+---
+### 2.2. Tạo Repo 
 
 - Tại phần trang chủ của `AIoT Lab` chọn `New`
 
@@ -35,7 +37,8 @@ Ví dụ: `MEC-Fuzzy-Q-learning-based-for-OCMA`
 
 ![](images/create-new-repo.png)
 
-### Quản lý quyền trong Repo
+---
+### 2.3. Quản lý quyền trong Repo
 - Lựa chọn Repo cần sửa:
 	- Bước 1. Truy cập vào phần `Settings`
 	- Bước 2. Lựa chọn `Manager access`
@@ -48,14 +51,16 @@ Ví dụ: `MEC-Fuzzy-Q-learning-based-for-OCMA`
 
 - **Lưu ý:** không lạm dụng việc tạo quá nhiều Team. Chỉ tạo Team khi cần thiết và Team phải được đặt tên hợp lý.
 
-### Hướng dẫn tạo Team
+---
+### 3.1. Hướng dẫn tạo Team
 - Bước 1. Truy cập `Teams`
 - Bước 2. Lựa chọn `New Teams` 
 - Bước 3. Điền các thông tin và lựa chọn Team gốc nếu có
 
 ![](images/team.png)
 
-### Thêm thành viên vào Team 
+---
+### 3.2. Thêm thành viên vào Team 
 **Lưu ý:** Nếu bạn là người tạo ra Team sẽ có quyền cao nhất với Team đó.
 
 - Bước 1. Lựa chọn Team cần thêm thành viên
@@ -64,7 +69,8 @@ Ví dụ: `MEC-Fuzzy-Q-learning-based-for-OCMA`
 
 ![](images/add-people-team.png)
 
-### Xin tham gia vào Team 
+---
+### 3.3. Xin tham gia vào Team 
 **Lưu ý:** Nếu bạn là người không tạo ra Team đó và muốn tham gia.
 
 - Bước 1. Lựa chọn Team cần thêm thành viên
