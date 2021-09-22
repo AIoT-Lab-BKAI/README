@@ -1,6 +1,13 @@
 # Hướng dẫn thông tin sử dụng AIoT Lab Organization
 * **Chú ý:** các bạn chuyển các Repo source-code hiện tại từ Github cá nhân sang Github của Lab nhé (hướng dẫn ở bên dưới)!
 
+### Phụ trách quản lý
+| Team | Người quản lý |
+| ----------- | ----------- |
+| Computer Vision | Nguyễn Mạnh Hiệp |
+| Data Science | Nguyễn Anh Duy |
+| Network Architecture | Nguyễn Năng Hưng |
+
 ## 1. Quy định chung 
 - Đọc kỹ thông tin hướng dẫn bên dưới để đảm bảo thống nhất chung cho toàn bộ các Repo trên Github của nhóm.
 - Chỉ thành viên trong Team mới có các quyền xem / sửa / xóa các Project trong Team đó.
