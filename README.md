@@ -20,14 +20,14 @@
 * Đối với Project cá nhân:
 
 ```
-[Tên người phụ trách]-[Tên nhóm]-[Tên Project]
+[Tên người phụ trách]-[Tên nhóm hoặc Dự án]-[Tên Project]
 ```
 Ví dụ: `ThanhNT-MEC-Fuzzy-Q-learning-based-for-OCMA`
 
 * Đối với Project theo nhóm:
 
 ```
-[Tên nhóm]-[Tên Project]
+[Tên nhóm hoặc Dự án]-[Tên Project]
 ```
 Ví dụ: `MEC-Fuzzy-Q-learning-based-for-OCMA`
 
